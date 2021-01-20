@@ -448,5 +448,475 @@
         "Rumpfmaterial": "Holz",
         "YW#": "64851-3609162",
         "Preis": "US$70,000 (EUR57,665)"
+    },
+    "https://www.yachtworld.de/Boote/1981/nautor-swan-47-3706683/": {
+        "url": "https://www.yachtworld.de/Boote/1981/nautor-swan-47-3706683/",
+        "Jahr": 1981,
+        "L\u00e4nge": 14,
+        "Motor": "  /",
+        "Liegeplatz": "San Diego, CA",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "77190-3706683",
+        "Preis": "US$68,500 (EUR56,430)"
+    },
+    "https://www.yachtworld.de/Boote/1980/robert-perry-center-cockpit-3143542/": {
+        "url": "https://www.yachtworld.de/Boote/1980/robert-perry-center-cockpit-3143542/",
+        "Jahr": 1980,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Napa, CA",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "31624-3143542",
+        "Preis": "US$69,000 (EUR56,842)"
+    },
+    "https://www.yachtworld.de/Boote/1992/tripp-tripp-47-3182338/": {
+        "url": "https://www.yachtworld.de/Boote/1992/tripp-tripp-47-3182338/",
+        "Jahr": 1992,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "MI, Vereinigte Staaten",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "80242-3182338",
+        "Preis": "US$65,000 (EUR53,546)Reserviert"
+    },
+    "https://www.yachtworld.de/Boote/1977/vagabond-47-3150197/": {
+        "url": "https://www.yachtworld.de/Boote/1977/vagabond-47-3150197/",
+        "Jahr": 1977,
+        "L\u00e4nge": 14,
+        "Motor": "  /",
+        "Liegeplatz": "Italien",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "81216-3150197",
+        "Preis": "EUR60,000"
+    },
+    "https://www.yachtworld.de/Boote/2003/reliant-465-3464365/": {
+        "url": "https://www.yachtworld.de/Boote/2003/reliant-465-3464365/",
+        "Jahr": 2003,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Mount Batten, Devon, Gro\u00dfbritannien",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "73591-3464365",
+        "Preis": "\u00a359,950 Versteuert (EUR67,383)"
+    },
+    "https://www.yachtworld.de/Boote/1990/bruce-roberts-44-3741368/": {
+        "url": "https://www.yachtworld.de/Boote/1990/bruce-roberts-44-3741368/",
+        "Jahr": 1990,
+        "L\u00e4nge": 14,
+        "Motor": "  /",
+        "Liegeplatz": "Kamperland, Niederlande",
+        "Rumpfmaterial": "Anderes",
+        "YW#": "81035-3741368",
+        "Preis": "EUR68,500 Versteuert"
+    },
+    "https://www.yachtworld.de/Boote/1987/grand-soleil-46-3659207/": {
+        "url": "https://www.yachtworld.de/Boote/1987/grand-soleil-46-3659207/",
+        "Jahr": 1987,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Emilia Romagna, Italien",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "74817-3659207",
+        "Preis": "EUR68,000"
+    },
+    "https://www.yachtworld.de/Boote/1990/beneteau-first-45f5-3617800/": {
+        "url": "https://www.yachtworld.de/Boote/1990/beneteau-first-45f5-3617800/",
+        "Jahr": 1990,
+        "L\u00e4nge": 14,
+        "Motor": "  /",
+        "Liegeplatz": " , Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "76849-3617800",
+        "Preis": "EUR59,000 Nicht versteuert"
+    },
+    "https://www.yachtworld.de/Boote/1992/beneteau-first-45f5-3748551/": {
+        "url": "https://www.yachtworld.de/Boote/1992/beneteau-first-45f5-3748551/",
+        "Jahr": 1992,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Athens, Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "81503-3748551",
+        "Preis": "EUR58,000 Nicht versteuert"
+    },
+    "https://www.yachtworld.de/Boote/1989/conrad-1420-3685477/": {
+        "url": "https://www.yachtworld.de/Boote/1989/conrad-1420-3685477/",
+        "Jahr": 1989,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Fiumicino, Lazio, Italien",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "75232-3685477",
+        "Preis": "EUR69,000 Versteuert"
+    },
+    "https://www.yachtworld.de/Boote/2004/custom-provins-atou-1400-3224742/": {
+        "url": "https://www.yachtworld.de/Boote/2004/custom-provins-atou-1400-3224742/",
+        "Jahr": 2004,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "MEDITERRANEE, Frankreich",
+        "Rumpfmaterial": "Holz",
+        "YW#": "51350-3224742",
+        "Preis": "EUR70,000 VersteuertReserviert"
+    },
+    "https://www.yachtworld.de/Boote/1996/jeanneau-sun-odyssey-45-1-3742425/": {
+        "url": "https://www.yachtworld.de/Boote/1996/jeanneau-sun-odyssey-45-1-3742425/",
+        "Jahr": 1996,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Athens, Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "78466-3742425",
+        "Preis": "EUR70,000 Nicht versteuert"
+    },
+    "https://www.yachtworld.de/Boote/1980/amel-maramu-46-3609037/": {
+        "url": "https://www.yachtworld.de/Boote/1980/amel-maramu-46-3609037/",
+        "Jahr": 1980,
+        "L\u00e4nge": 14,
+        "Motor": "  /",
+        "Liegeplatz": "Ionion Sea, Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "72731-3609037",
+        "Preis": "EUR41,000 VersteuertReserviert"
+    },
+    "https://www.yachtworld.de/Boote/2005/bavaria-cruiser-46-3229192/": {
+        "url": "https://www.yachtworld.de/Boote/2005/bavaria-cruiser-46-3229192/",
+        "Jahr": 2005,
+        "L\u00e4nge": 14,
+        "Motor": "  /",
+        "Liegeplatz": "Dalmatia, Kroatien",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "72731-3229192",
+        "Preis": "EUR69,800Reserviert"
+    },
+    "https://www.yachtworld.de/Boote/1974/cal-2-46-3571314/": {
+        "url": "https://www.yachtworld.de/Boote/1974/cal-2-46-3571314/",
+        "Jahr": 1974,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Oxnard, CA",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "14024-3571314",
+        "Preis": "US$74,500 (EUR61,372)"
+    },
+    "https://www.yachtworld.de/Boote/1974/cal-2-46-centre-cockpit-3567761/": {
+        "url": "https://www.yachtworld.de/Boote/1974/cal-2-46-centre-cockpit-3567761/",
+        "Jahr": 1974,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "North Sydney, NS",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "1408-3567761",
+        "Preis": "Can$85,900 (EUR55,620)"
+    },
+    "https://www.yachtworld.de/Boote/1977/custom-cantieri-italiani-albatross-46-3488966/": {
+        "url": "https://www.yachtworld.de/Boote/1977/custom-cantieri-italiani-albatross-46-3488966/",
+        "Jahr": 1977,
+        "L\u00e4nge": 14,
+        "Motor": "  /",
+        "Liegeplatz": "Aegean Sea, Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "72731-3488966",
+        "Preis": "EUR49,900 Versteuert"
+    },
+    "https://www.yachtworld.de/Boote/1973/ericson-46-sloop-3667108/": {
+        "url": "https://www.yachtworld.de/Boote/1973/ericson-46-sloop-3667108/",
+        "Jahr": 1973,
+        "L\u00e4nge": 14,
+        "Motor": "  /",
+        "Liegeplatz": "Vallejo, CA",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "1741-3667108",
+        "Preis": "US$50,000 (EUR41,190)"
+    },
+    "https://www.yachtworld.de/Boote/1977/formosa-46-3534657/": {
+        "url": "https://www.yachtworld.de/Boote/1977/formosa-46-3534657/",
+        "Jahr": 1977,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Leros, Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "42024-3534657",
+        "Preis": "EUR69,500"
+    },
+    "https://www.yachtworld.de/Boote/1985/herreshoff-goldenball-leeboard-ketch-3225708/": {
+        "url": "https://www.yachtworld.de/Boote/1985/herreshoff-goldenball-leeboard-ketch-3225708/",
+        "Jahr": 1985,
+        "L\u00e4nge": 14,
+        "Motor": "zweimotorig / diesel",
+        "Liegeplatz": "Pine Island, FL",
+        "Rumpfmaterial": "Verbund",
+        "YW#": "77675-3225708",
+        "Preis": "US$79,000 (EUR65,079)"
+    },
+    "https://www.yachtworld.de/Boote/1988/hunter-45-3714726/": {
+        "url": "https://www.yachtworld.de/Boote/1988/hunter-45-3714726/",
+        "Jahr": 1988,
+        "L\u00e4nge": 14,
+        "Motor": "  /",
+        "Liegeplatz": "Saint Clair Shores, MI",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "1934-3714726",
+        "Preis": "US$69,700 (EUR57,418)"
+    },
+    "https://www.yachtworld.de/Boote/1982/irwin-46-3720446/": {
+        "url": "https://www.yachtworld.de/Boote/1982/irwin-46-3720446/",
+        "Jahr": 1982,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Severna Park, MD",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "77126-3720446",
+        "Preis": "US$65,000 (EUR53,546)"
+    },
+    "https://www.yachtworld.de/Boote/1982/irwin-46-ketch-3741388/": {
+        "url": "https://www.yachtworld.de/Boote/1982/irwin-46-ketch-3741388/",
+        "Jahr": 1982,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Pensacola, FL",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "77606-3741388",
+        "Preis": "US$79,000 (EUR65,079)"
+    },
+    "https://www.yachtworld.de/Boote/1989/ketch-mccurby-rhodes-design-ketch-rig-3502680/": {
+        "url": "https://www.yachtworld.de/Boote/1989/ketch-mccurby-rhodes-design-ketch-rig-3502680/",
+        "Jahr": 1989,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Charlotte Amalie, Amerikanische Jungferninseln",
+        "Rumpfmaterial": "Aluminium",
+        "YW#": "78828-3502680",
+        "Preis": "US$66,000 (EUR54,370)"
+    },
+    "https://www.yachtworld.de/Boote/1998/beneteau-oceanis-461-2726142/": {
+        "url": "https://www.yachtworld.de/Boote/1998/beneteau-oceanis-461-2726142/",
+        "Jahr": 1998,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Athens, Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "78466-2726142",
+        "Preis": "EUR65,000 Nicht versteuert"
+    },
+    "https://www.yachtworld.de/Boote/1992/custom-ketch-caroff-cc-ds-3691012/": {
+        "url": "https://www.yachtworld.de/Boote/1992/custom-ketch-caroff-cc-ds-3691012/",
+        "Jahr": 1992,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "VALENCIA, Spanien",
+        "Rumpfmaterial": "Stahl",
+        "YW#": "75527-3691012",
+        "Preis": "EUR55,000 Versteuert"
+    },
+    "https://www.yachtworld.de/Boote/1980/custom-classic-wooden-sloop--2517489/": {
+        "url": "https://www.yachtworld.de/Boote/1980/custom-classic-wooden-sloop--2517489/",
+        "Jahr": 1980,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Split, Kroatien",
+        "Rumpfmaterial": "Holz",
+        "YW#": "1590-2517489",
+        "Preis": "EUR50,000 Versteuert"
+    },
+    "https://www.yachtworld.de/Boote/1997/dufour-dufour-45-classic-3714231/": {
+        "url": "https://www.yachtworld.de/Boote/1997/dufour-dufour-45-classic-3714231/",
+        "Jahr": 1997,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Italia, Italien",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "57770-3714231",
+        "Preis": "EUR70,000"
+    },
+    "https://www.yachtworld.de/Boote/1974/ta-chiao-ct-41-3732289/": {
+        "url": "https://www.yachtworld.de/Boote/1974/ta-chiao-ct-41-3732289/",
+        "Jahr": 1974,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Katwoude, Niederlande",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "1323-3732289",
+        "Preis": "EUR69,000"
+    },
+    "https://www.yachtworld.de/Boote/2002/bavaria-44-3138028/": {
+        "url": "https://www.yachtworld.de/Boote/2002/bavaria-44-3138028/",
+        "Jahr": 2002,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Dalmatia, Kroatien",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "75180-3138028",
+        "Preis": "EUR66,000 Nicht versteuert"
+    },
+    "https://www.yachtworld.de/Boote/2002/bavaria-44-2717477/": {
+        "url": "https://www.yachtworld.de/Boote/2002/bavaria-44-2717477/",
+        "Jahr": 2002,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "79760-2717477",
+        "Preis": "EUR63,000 Nicht versteuert"
+    },
+    "https://www.yachtworld.de/Boote/2002/bavaria-44-2809728/": {
+        "url": "https://www.yachtworld.de/Boote/2002/bavaria-44-2809728/",
+        "Jahr": 2002,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "78466-2809728",
+        "Preis": "EUR62,000 Nicht versteuert"
+    },
+    "https://www.yachtworld.de/Boote/2002/bavaria-44-3728127/": {
+        "url": "https://www.yachtworld.de/Boote/2002/bavaria-44-3728127/",
+        "Jahr": 2002,
+        "L\u00e4nge": 14,
+        "Motor": "  /",
+        "Liegeplatz": " , Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "76849-3728127",
+        "Preis": "EUR60,000 Nicht versteuert"
+    },
+    "https://www.yachtworld.de/Boote/2006/harmony-47-3737579/": {
+        "url": "https://www.yachtworld.de/Boote/2006/harmony-47-3737579/",
+        "Jahr": 2006,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Athens, Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "81503-3737579",
+        "Preis": "EUR65,000 Nicht versteuert"
+    },
+    "https://www.yachtworld.de/Boote/1985/beneteau-first-456-3709186/": {
+        "url": "https://www.yachtworld.de/Boote/1985/beneteau-first-456-3709186/",
+        "Jahr": 1985,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "LE LAVANDOU , Var, Frankreich",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "80097-3709186",
+        "Preis": "EUR69,000 Versteuert"
+    },
+    "https://www.yachtworld.de/Boote/1979/custom-rpd-nelson-46-3744596/": {
+        "url": "https://www.yachtworld.de/Boote/1979/custom-rpd-nelson-46-3744596/",
+        "Jahr": 1979,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Campania, Italien",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "75232-3744596",
+        "Preis": "EUR45,000 Versteuert"
+    },
+    "https://www.yachtworld.de/Boote/2000/jeanneau-sun-odyssey-45-2-3545618/": {
+        "url": "https://www.yachtworld.de/Boote/2000/jeanneau-sun-odyssey-45-2-3545618/",
+        "Jahr": 2000,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Volos , Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "81503-3545618",
+        "Preis": "EUR65,000 Nicht versteuert"
+    },
+    "https://www.yachtworld.de/Boote/2000/jeanneau-sun-odyssey-45-2-3733322/": {
+        "url": "https://www.yachtworld.de/Boote/2000/jeanneau-sun-odyssey-45-2-3733322/",
+        "Jahr": 2000,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Athens, Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "81503-3733322",
+        "Preis": "EUR63,000 Nicht versteuert"
+    },
+    "https://www.yachtworld.de/Boote/1986/wauquiez-centurion-42-3563535/": {
+        "url": "https://www.yachtworld.de/Boote/1986/wauquiez-centurion-42-3563535/",
+        "Jahr": 1986,
+        "L\u00e4nge": 14,
+        "Motor": "  /",
+        "Liegeplatz": "Bruinisse, Niederlande",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "76405-3563535",
+        "Preis": "EUR69,500"
+    },
+    "https://www.yachtworld.de/Boote/1998/jeanneau-sun-odyssey-45-2-3563248/": {
+        "url": "https://www.yachtworld.de/Boote/1998/jeanneau-sun-odyssey-45-2-3563248/",
+        "Jahr": 1998,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Athens, Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "78466-3563248",
+        "Preis": "EUR69,000"
+    },
+    "https://www.yachtworld.de/Boote/1973/skookum-47-3716507/": {
+        "url": "https://www.yachtworld.de/Boote/1973/skookum-47-3716507/",
+        "Jahr": 1973,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Kingston, WA, USA -- Shown by Appointment, WA",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "81636-3716507",
+        "Preis": "US$60,000 (EUR49,427)Reserviert"
+    },
+    "https://www.yachtworld.de/Boote/1976/skookum-cc-cutter-3739048/": {
+        "url": "https://www.yachtworld.de/Boote/1976/skookum-cc-cutter-3739048/",
+        "Jahr": 1976,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Seattle, WA",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "1295-3739048",
+        "Preis": "US$75,000 (EUR61,784)Reserviert"
+    },
+    "https://www.yachtworld.de/Boote/1997/fairwind-46-3141755/": {
+        "url": "https://www.yachtworld.de/Boote/1997/fairwind-46-3141755/",
+        "Jahr": 1997,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "langkawi, Malaysia",
+        "Rumpfmaterial": "Stahl",
+        "YW#": "78000-3141755",
+        "Preis": "US$73,000 (EUR60,137)"
+    },
+    "https://www.yachtworld.de/Boote/2003/bavaria-44-3564771/": {
+        "url": "https://www.yachtworld.de/Boote/2003/bavaria-44-3564771/",
+        "Jahr": 2003,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Hammamet, Tunesien",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "82004-3564771",
+        "Preis": "\u00a359,950 Versteuert (EUR67,383)"
+    },
+    "https://www.yachtworld.de/Boote/2004/bavaria-44-3619546/": {
+        "url": "https://www.yachtworld.de/Boote/2004/bavaria-44-3619546/",
+        "Jahr": 2004,
+        "L\u00e4nge": 14,
+        "Motor": "  /",
+        "Liegeplatz": "Preveza, Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "82001-3619546",
+        "Preis": "EUR69,950 Versteuert"
+    },
+    "https://www.yachtworld.de/Boote/1998/beneteau-oceanis-461-3617501/": {
+        "url": "https://www.yachtworld.de/Boote/1998/beneteau-oceanis-461-3617501/",
+        "Jahr": 1998,
+        "L\u00e4nge": 14,
+        "Motor": "  /",
+        "Liegeplatz": "Preveza, Griechenland",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "82001-3617501",
+        "Preis": "EUR65,000 VersteuertReserviert"
+    },
+    "https://www.yachtworld.de/Boote/1989/gib-sea-442-master-3721579/": {
+        "url": "https://www.yachtworld.de/Boote/1989/gib-sea-442-master-3721579/",
+        "Jahr": 1989,
+        "L\u00e4nge": 14,
+        "Motor": "einmotorig / diesel",
+        "Liegeplatz": "Marmaris, T\u00fcrkei",
+        "Rumpfmaterial": "GFK (Fiberglas)",
+        "YW#": "66231-3721579",
+        "Preis": "EUR68,000 Nicht versteuert"
     }
 }
